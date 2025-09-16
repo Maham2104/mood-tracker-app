@@ -26,7 +26,7 @@ How to Use:
 
 Project Structure:
 
-MoodTracker/
+mood-tracker-app/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -35,7 +35,7 @@ MoodTracker/
 Project Metadata (YAML)
 yaml:
 
-name: Mood Tracker App
+name: mood-tracker-app
 version: 1.0
 author: Maham
 features:
