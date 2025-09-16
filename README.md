@@ -8,7 +8,7 @@ A "web-based Mood Tracker" built with HTML, CSS, and JavaScript. Track your dail
 
 Demo:
 
-![mood-tracker-app](demo.gif).
+![Mood Tracker Demo](demo.gif)
 
 Features:
 
@@ -30,6 +30,7 @@ MoodTracker/
 ├── index.html
 ├── style.css
 ├── script.js
+├── demo.gif
 
 Project Metadata (YAML)
 yaml:
