@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Mood Tracker App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="heading">
+    <h1>Daily Mood Tracker</h1>
+    <!-- Form Section -->
+    <form id="moodForm">
+      <label for="moodInput">Mood:</label>
+      <input type="text" id="moodInput" placeholder="e.g. Happy, Tired, Anxious">
+      <label for="dateInput">Date:</label>
+      <input type="date" id="dateInput">
+      <button type="submit">Add Mood</button>
+    </form>
+    <!-- Mood Log Section -->
+    <h2>Mood Logs</h2>
+    <p id="voidMessage">No mood added. Start Now!</p>
+    <ul id="moodList"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
