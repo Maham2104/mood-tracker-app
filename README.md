@@ -24,8 +24,8 @@ How to Use:
 
 1. Open `index.html` in your browser.
 2. Enter your mood and select the date.
-3. Click **Add Mood** to save your entry.
-4. Delete entries using the **Delete** button.
+3. Click Add Mood to save your entry.
+4. Delete entries using the Delete button.
 
 Project Structure:
 
@@ -35,31 +35,18 @@ mood-tracker-app/
 ├── script.js
 ├── demo.gif
 
-Project Metadata (YAML)
-yaml:
-
-name: mood-tracker-app
-version: 1.0
-author: Maham
-features:
+Features:
   - Add daily moods
   - View logs
   - Delete entries
-technologies:
+    
+Technologies:
   - HTML
   - CSS
   - JavaScript
 
-Contributing:
-
-- Fork the repository
-
-- Make your changes
-
-- Submit a pull request
-
 License:
-This project is open-source under the MIT License.
+ MIT License
 
 
 
